@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Regulus-Hu
--    I'm a graduate from the University of Toronto, St. George campus, majoring Cognitive Science, in the Language and Perception stream.
+- 👩‍🎓 I'm a graduate from the University of Toronto, St. George campus, majoring Cognitive Science, in the Language and Perception stream.
 - 👀 I’m interested in Cuisines, Video Games, and researching human behaviors
-- 🌱 I’m currently learning 
+- 🌱 I’m currently looking for entry level job as a UX Researcher
 - 📫 How to reach me: hu.xuanqi070@gmail.com
 
 <!---
